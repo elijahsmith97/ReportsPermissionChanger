@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AESModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2005" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="RULES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="STATUS" Type="nvarchar" MaxLength="50" />
+    <Property Name="GROUP" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Dept" Type="nvarchar" MaxLength="50" />
+    <Property Name="RULE1" Type="bit" />
+    <Property Name="RULE2" Type="bit" />
+    <Property Name="RULE3" Type="bit" />
+    <Property Name="RULE4" Type="bit" />
+    <Property Name="RULE5" Type="bit" />
+    <Property Name="RULE6" Type="bit" />
+    <Property Name="RULE7" Type="bit" />
+    <Property Name="RULE8" Type="bit" />
+    <Property Name="RULE9" Type="bit" />
+    <Property Name="RULE10" Type="bit" />
+    <Property Name="RULE11" Type="bit" />
+    <Property Name="AUDITOR" Type="bit" />
+    <Property Name="ID_SELECTION" Type="nvarchar" MaxLength="50" />
+    <Property Name="ACTIVITY_CENTER" Type="nvarchar" MaxLength="255" />
+    <Property Name="SERVICE_ID_FIELDS" Type="nvarchar" MaxLength="50" />
+    <Property Name="TECHSTATUS" Type="nvarchar" MaxLength="50" />
+    <Property Name="PINCODE" Type="nvarchar" MaxLength="4" />
+    <Property Name="EmployeeID" Type="int" />
+    <Property Name="ADP" Type="nvarchar" MaxLength="20" />
+    <Property Name="Active" Type="nvarchar" MaxLength="2" />
+    <Property Name="Facility" Type="nvarchar" MaxLength="10" />
+    <Property Name="PackButton" Type="nvarchar" MaxLength="1" />
+    <Property Name="Rules" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="Trainee" Type="nvarchar" MaxLength="1" />
+    <Property Name="LoggedIn" Type="bit" />
+    <Property Name="Purchasing" Type="bit" />
+    <Property Name="OrderEntry" Type="bit" />
+    <Property Name="Invoicing" Type="bit" />
+    <Property Name="Receiving" Type="bit" />
+    <Property Name="Sales" Type="bit" />
+    <Property Name="Shipping" Type="bit" />
+    <Property Name="Tech" Type="bit" />
+    <Property Name="Office" Type="bit" />
+    <Property Name="BusinessAnalysis" Type="bit" />
+    <Property Name="AESMed" Type="bit" />
+    <Property Name="HumanResources" Type="bit" />
+    <Property Name="Sage" Type="bit" />
+    <Property Name="ResourceBuilder" Type="bit" />
+    <Property Name="ReportsOnDemand" Type="bit" />
+    <Property Name="EatonLabels" Type="bit" />
+    <Property Name="TrimbleLabels" Type="bit" />
+    <Property Name="Quoting" Type="bit" />
+    <Property Name="IPAddress" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="tblReportsIndex">
+    <Key>
+      <PropertyRef Name="ReportID" />
+    </Key>
+    <Property Name="ReportID" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" />
+    <Property Name="Freq" Type="nvarchar" MaxLength="255" />
+    <Property Name="LastUpdate" Type="datetime" />
+    <Property Name="FileType" Type="nvarchar" MaxLength="255" />
+    <Property Name="Distribution" Type="ntext" />
+    <Property Name="AROD" Type="nvarchar" MaxLength="255" />
+    <Property Name="Active" Type="nchar" MaxLength="1" />
+    <Property Name="EmailFrom" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="AESModelStoreContainer">
+    <EntitySet Name="RULES" EntityType="Self.RULES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblReportsIndex" EntityType="Self.tblReportsIndex" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

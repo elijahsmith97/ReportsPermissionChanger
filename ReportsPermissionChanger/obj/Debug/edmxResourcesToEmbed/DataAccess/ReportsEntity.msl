@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AESModelStoreContainer" CdmEntityContainer="AESEntities">
+    <EntitySetMapping Name="RULES">
+      <EntityTypeMapping TypeName="AESModel.RULE">
+        <MappingFragment StoreEntitySet="RULES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="GROUP" ColumnName="GROUP" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Dept" ColumnName="Dept" />
+          <ScalarProperty Name="RULE1" ColumnName="RULE1" />
+          <ScalarProperty Name="RULE2" ColumnName="RULE2" />
+          <ScalarProperty Name="RULE3" ColumnName="RULE3" />
+          <ScalarProperty Name="RULE4" ColumnName="RULE4" />
+          <ScalarProperty Name="RULE5" ColumnName="RULE5" />
+          <ScalarProperty Name="RULE6" ColumnName="RULE6" />
+          <ScalarProperty Name="RULE7" ColumnName="RULE7" />
+          <ScalarProperty Name="RULE8" ColumnName="RULE8" />
+          <ScalarProperty Name="RULE9" ColumnName="RULE9" />
+          <ScalarProperty Name="RULE10" ColumnName="RULE10" />
+          <ScalarProperty Name="RULE11" ColumnName="RULE11" />
+          <ScalarProperty Name="AUDITOR" ColumnName="AUDITOR" />
+          <ScalarProperty Name="ID_SELECTION" ColumnName="ID_SELECTION" />
+          <ScalarProperty Name="ACTIVITY_CENTER" ColumnName="ACTIVITY_CENTER" />
+          <ScalarProperty Name="SERVICE_ID_FIELDS" ColumnName="SERVICE_ID_FIELDS" />
+          <ScalarProperty Name="TECHSTATUS" ColumnName="TECHSTATUS" />
+          <ScalarProperty Name="PINCODE" ColumnName="PINCODE" />
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="ADP" ColumnName="ADP" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="Facility" ColumnName="Facility" />
+          <ScalarProperty Name="PackButton" ColumnName="PackButton" />
+          <ScalarProperty Name="Rules" ColumnName="Rules" />
+          <ScalarProperty Name="Trainee" ColumnName="Trainee" />
+          <ScalarProperty Name="LoggedIn" ColumnName="LoggedIn" />
+          <ScalarProperty Name="Purchasing" ColumnName="Purchasing" />
+          <ScalarProperty Name="OrderEntry" ColumnName="OrderEntry" />
+          <ScalarProperty Name="Invoicing" ColumnName="Invoicing" />
+          <ScalarProperty Name="Receiving" ColumnName="Receiving" />
+          <ScalarProperty Name="Sales" ColumnName="Sales" />
+          <ScalarProperty Name="Shipping" ColumnName="Shipping" />
+          <ScalarProperty Name="Tech" ColumnName="Tech" />
+          <ScalarProperty Name="Office" ColumnName="Office" />
+          <ScalarProperty Name="BusinessAnalysis" ColumnName="BusinessAnalysis" />
+          <ScalarProperty Name="AESMed" ColumnName="AESMed" />
+          <ScalarProperty Name="HumanResources" ColumnName="HumanResources" />
+          <ScalarProperty Name="Sage" ColumnName="Sage" />
+          <ScalarProperty Name="ResourceBuilder" ColumnName="ResourceBuilder" />
+          <ScalarProperty Name="ReportsOnDemand" ColumnName="ReportsOnDemand" />
+          <ScalarProperty Name="EatonLabels" ColumnName="EatonLabels" />
+          <ScalarProperty Name="TrimbleLabels" ColumnName="TrimbleLabels" />
+          <ScalarProperty Name="Quoting" ColumnName="Quoting" />
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReportsIndexes">
+      <EntityTypeMapping TypeName="AESModel.tblReportsIndex">
+        <MappingFragment StoreEntitySet="tblReportsIndex">
+          <ScalarProperty Name="ReportID" ColumnName="ReportID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Freq" ColumnName="Freq" />
+          <ScalarProperty Name="LastUpdate" ColumnName="LastUpdate" />
+          <ScalarProperty Name="FileType" ColumnName="FileType" />
+          <ScalarProperty Name="Distribution" ColumnName="Distribution" />
+          <ScalarProperty Name="AROD" ColumnName="AROD" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="EmailFrom" ColumnName="EmailFrom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

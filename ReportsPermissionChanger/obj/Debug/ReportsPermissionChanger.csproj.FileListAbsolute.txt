@@ -1,0 +1,88 @@
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe.config
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.pdb
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csprojResolveAssemblyReference.cache
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.baml
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.g.cs
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.g.cs
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.cache
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.g.resources
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.Properties.Resources.resources
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.GenerateResource.Cache
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.exe
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.pdb
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.baml
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_Content.g.cs
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.dll
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.xml
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\jbeverly.aescorp\documents\visual studio 2013\Projects\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.lref
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe.config
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.pdb
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.dll
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.dll
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.xml
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.xml
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csprojResolveAssemblyReference.cache
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.baml
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.g.cs
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.g.cs
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_Content.g.cs
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.cache
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.lref
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.baml
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.g.resources
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.Properties.Resources.resources
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.GenerateResource.Cache
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.exe
+X:\Jarreds Programs\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.pdb
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe.config
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.pdb
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.dll
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.dll
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.xml
+C:\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.xml
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csprojResolveAssemblyReference.cache
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.baml
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.g.cs
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.g.cs
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_Content.g.cs
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.cache
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.lref
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.baml
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.g.resources
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.Properties.Resources.resources
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.GenerateResource.Cache
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.CoreCompileInputs.cache
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.exe
+C:\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.pdb
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csprojResolveAssemblyReference.cache
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.baml
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.g.cs
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\App.g.cs
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_Content.g.cs
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.cache
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger_MarkupCompile.lref
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.exe
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.pdb
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe.config
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.exe
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\ReportsPermissionChanger.pdb
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.dll
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.xml
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MainWindow.baml
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.g.resources
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.Properties.Resources.resources
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.GenerateResource.Cache
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\ReportsPermissionChanger.csproj.CoreCompileInputs.cache
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MultipleWindow.g.cs
+C:\Users\esmith\Desktop\ReportsPermissionChanger\ReportsPermissionChanger\obj\Debug\MultipleWindow.baml

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AESModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="RULE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="STATUS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GROUP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Dept" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RULE1" Type="Boolean" />
+    <Property Name="RULE2" Type="Boolean" />
+    <Property Name="RULE3" Type="Boolean" />
+    <Property Name="RULE4" Type="Boolean" />
+    <Property Name="RULE5" Type="Boolean" />
+    <Property Name="RULE6" Type="Boolean" />
+    <Property Name="RULE7" Type="Boolean" />
+    <Property Name="RULE8" Type="Boolean" />
+    <Property Name="RULE9" Type="Boolean" />
+    <Property Name="RULE10" Type="Boolean" />
+    <Property Name="RULE11" Type="Boolean" />
+    <Property Name="AUDITOR" Type="Boolean" />
+    <Property Name="ID_SELECTION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ACTIVITY_CENTER" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SERVICE_ID_FIELDS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TECHSTATUS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PINCODE" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeID" Type="Int32" />
+    <Property Name="ADP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Active" Type="String" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Name="Facility" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="PackButton" Type="String" MaxLength="1" FixedLength="false" Unicode="true" />
+    <Property Name="Rules" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="Trainee" Type="String" MaxLength="1" FixedLength="false" Unicode="true" />
+    <Property Name="LoggedIn" Type="Boolean" />
+    <Property Name="Purchasing" Type="Boolean" />
+    <Property Name="OrderEntry" Type="Boolean" />
+    <Property Name="Invoicing" Type="Boolean" />
+    <Property Name="Receiving" Type="Boolean" />
+    <Property Name="Sales" Type="Boolean" />
+    <Property Name="Shipping" Type="Boolean" />
+    <Property Name="Tech" Type="Boolean" />
+    <Property Name="Office" Type="Boolean" />
+    <Property Name="BusinessAnalysis" Type="Boolean" />
+    <Property Name="AESMed" Type="Boolean" />
+    <Property Name="HumanResources" Type="Boolean" />
+    <Property Name="Sage" Type="Boolean" />
+    <Property Name="ResourceBuilder" Type="Boolean" />
+    <Property Name="ReportsOnDemand" Type="Boolean" />
+    <Property Name="EatonLabels" Type="Boolean" />
+    <Property Name="TrimbleLabels" Type="Boolean" />
+    <Property Name="Quoting" Type="Boolean" />
+    <Property Name="IPAddress" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblReportsIndex">
+    <Key>
+      <PropertyRef Name="ReportID" />
+    </Key>
+    <Property Name="ReportID" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Freq" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="LastUpdate" Type="DateTime" Precision="3" />
+    <Property Name="FileType" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Distribution" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="AROD" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Active" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+    <Property Name="EmailFrom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="AESEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="RULES" EntityType="Self.RULE" />
+    <EntitySet Name="tblReportsIndexes" EntityType="Self.tblReportsIndex" />
+  </EntityContainer>
+</Schema>
